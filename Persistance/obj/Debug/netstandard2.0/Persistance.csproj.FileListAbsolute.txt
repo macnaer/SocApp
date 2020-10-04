@@ -1,0 +1,12 @@
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\bin\Debug\netstandard2.0\Persistance.deps.json
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\bin\Debug\netstandard2.0\Persistance.dll
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\bin\Debug\netstandard2.0\Persistance.pdb
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\bin\Debug\netstandard2.0\Domain.dll
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\bin\Debug\netstandard2.0\Domain.pdb
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.csprojAssemblyReference.cache
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.AssemblyInfoInputs.cache
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.AssemblyInfo.cs
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.csproj.CopyComplete
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.dll
+D:\Lib\Projects\SocialNetworkApp\Reactivities\Persistance\obj\Debug\netstandard2.0\Persistance.pdb

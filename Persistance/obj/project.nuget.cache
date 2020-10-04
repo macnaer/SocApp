@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "thzM86euIDdU0/sZSPr/XZ4Lh5Bk+2LB97KPUi9TQRzMk/vU84I72kiQ3V42zhO4kB6PE/2b5ZCRgkLYIXw86w==",
+  "success": true,
+  "projectFilePath": "D:\\Lib\\Projects\\SocialNetworkApp\\Reactivities\\Persistance\\Persistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
