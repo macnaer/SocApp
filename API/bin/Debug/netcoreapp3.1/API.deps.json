@@ -102,7 +102,7 @@
           "Microsoft.AspNetCore.StaticFiles": "3.1.0.0",
           "Microsoft.AspNetCore.WebSockets": "3.1.0.0",
           "Microsoft.AspNetCore.WebUtilities": "3.1.0.0",
-          "Microsoft.CSharp": "4.0.0.0",
+          "Microsoft.CSharp.Reference": "4.0.0.0",
           "Microsoft.Extensions.Configuration.CommandLine": "3.1.0.0",
           "Microsoft.Extensions.Configuration.EnvironmentVariables": "3.1.0.0",
           "Microsoft.Extensions.Configuration.FileExtensions": "3.1.0.0",
@@ -323,6 +323,7 @@
           "ref/netcoreapp2.1/Microsoft.Bcl.HashCode.dll": {}
         }
       },
+      "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Data.Sqlite.Core/3.1.8": {
         "dependencies": {
           "SQLitePCLRaw.core": "2.0.2"
@@ -383,6 +384,21 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/3.1.8": {},
+      "Microsoft.EntityFrameworkCore.Design/3.1.8": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.8"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42012"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/3.1.8": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.8"
@@ -762,6 +778,7 @@
         "dependencies": {
           "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.8",
+          "Microsoft.EntityFrameworkCore.Design": "3.1.8",
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.8"
         },
         "runtime": {
@@ -1233,7 +1250,7 @@
         },
         "compileOnly": true
       },
-      "Microsoft.CSharp/4.0.0.0": {
+      "Microsoft.CSharp.Reference/4.0.0.0": {
         "compile": {
           "Microsoft.CSharp.dll": {}
         },
@@ -2401,6 +2418,13 @@
       "path": "microsoft.bcl.hashcode/1.1.0",
       "hashPath": "microsoft.bcl.hashcode.1.1.0.nupkg.sha512"
     },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
     "Microsoft.Data.Sqlite.Core/3.1.8": {
       "type": "package",
       "serviceable": true,
@@ -2435,6 +2459,13 @@
       "sha512": "sha512-Cm1+PV53O/xN4P8fMkSZq9aqyXRjEZ5kmuWs7W4yE4V4GLgrqTCRmtooM5tUPM3R7VI47hAa8Aab+UuSRvpU+w==",
       "path": "microsoft.entityframeworkcore.analyzers/3.1.8",
       "hashPath": "microsoft.entityframeworkcore.analyzers.3.1.8.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Design/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nFsL0L2CdadJ9dmSsmYlDZ1dFWQEr9zCWZ+oI4OOLtoS7gU2XPZiEhtvipAFzfSadx3XkteX/4fgdbM7wTub9A==",
+      "path": "microsoft.entityframeworkcore.design/3.1.8",
+      "hashPath": "microsoft.entityframeworkcore.design.3.1.8.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/3.1.8": {
       "type": "package",
@@ -3004,7 +3035,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.CSharp/4.0.0.0": {
+    "Microsoft.CSharp.Reference/4.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""
