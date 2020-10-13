@@ -65,3 +65,5 @@ D:\Lib\Projects\SocialNetworkApp\Reactivities\API\bin\Debug\netcoreapp3.1\runtim
 D:\Lib\Projects\SocialNetworkApp\Reactivities\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\Lib\Projects\SocialNetworkApp\Reactivities\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 D:\Lib\Projects\SocialNetworkApp\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lib\Projects\SocialNetworkApp\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\Lib\Projects\SocialNetworkApp\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
