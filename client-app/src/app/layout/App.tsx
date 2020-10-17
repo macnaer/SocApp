@@ -3,6 +3,7 @@ import axios from "axios";
 import { Container } from "semantic-ui-react";
 import { IActivity } from "../models/activity";
 import { Header, Icon, List } from "semantic-ui-react";
+import NavBar from "../../features/nav/NavBar";
 
 interface IState {
   activities: IActivity[];
@@ -29,7 +30,8 @@ const App = () => {
   }, []);
 
   return (
-    <div>
+    <Fragment>
+      <NavBar />
       <Header as="h2">
         <Icon name="users" />
         <Header.Content>Reactivities</Header.Content>
@@ -39,7 +41,7 @@ const App = () => {
           <List.Item key={activity.id}>{activity.title}</List.Item>
         ))}
       </List>
-    </div>
+    </Fragment>
   );
 };
 export default App;
