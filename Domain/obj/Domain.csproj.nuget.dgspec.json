@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lib\\Projects\\SocialNetworkApp\\Reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\macnaer\\Desktop\\Lessons\\SocApp\\SocApp\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Lib\\Projects\\SocialNetworkApp\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\macnaer\\Desktop\\Lessons\\SocApp\\SocApp\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lib\\Projects\\SocialNetworkApp\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\macnaer\\Desktop\\Lessons\\SocApp\\SocApp\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Lib\\Projects\\SocialNetworkApp\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\k2\\.nuget\\packages\\",
-        "outputPath": "D:\\Lib\\Projects\\SocialNetworkApp\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\macnaer\\Desktop\\Lessons\\SocApp\\SocApp\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\macnaer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macnaer\\Desktop\\Lessons\\SocApp\\SocApp\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\k2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\macnaer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -12,3 +12,17 @@ D:\Lib\Projects\SocialNetworkApp\Reactivities\Application\obj\Debug\netstandard2
 D:\Lib\Projects\SocialNetworkApp\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
 D:\Lib\Projects\SocialNetworkApp\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
 D:\Lib\Projects\SocialNetworkApp\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\bin\Debug\netstandard2.0\Persistance.dll
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\bin\Debug\netstandard2.0\Persistance.pdb
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\macnaer\Desktop\Lessons\SocApp\SocApp\Application\obj\Debug\netstandard2.0\Application.pdb
